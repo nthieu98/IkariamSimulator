@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Battlefield atkid = "0" defid = "0">
+	<AttackerForce>
+		<Archer id="0" number="1">
+		</Archer>
+		<BalloonBombardier id="1" number="2">
+		</BalloonBombardier>
+		<Captapult id="2" number="3">
+		</Captapult>
+		<Cook id="3" number="4">
+		</Cook>
+		<Doctor id="4" number="5">
+		</Doctor>
+		<Gyrocopter id="5" number="6">
+		</Gyrocopter>
+		<Hoplite id="6" number="7">
+		</Hoplite>
+		<Mortar id="7" number="8">
+		</Mortar>
+		<Ram id="8" number="9">
+		</Ram>
+		<Slinger id="9" number="10">
+		</Slinger>
+		<Spartans id="10" number="11">
+		</Spartans>
+		<Spearman id="11" number="12">
+		</Spearman>
+		<SteamGiant id="12" number="13">
+		</SteamGiant>
+		<SulphurCarabineer id="13" number="14">
+		</SulphurCarabineer>
+		<Swordman id="14" number="15">
+		</Swordman>
+		<Wall id="15" number="16">
+		</Wall>
+	</AttackerForce>
+	<DefenderForce>
+		<Archer id="0" number="1">
+		</Archer>
+		<BalloonBombardier id="1" number="2">
+		</BalloonBombardier>
+		<Captapult id="2" number="3">
+		</Captapult>
+		<Cook id="3" number="4">
+		</Cook>
+		<Doctor id="4" number="5">
+		</Doctor>
+		<Gyrocopter id="5" number="6">
+		</Gyrocopter>
+		<Hoplite id="6" number="7">
+		</Hoplite>
+		<Mortar id="7" number="8">
+		</Mortar>
+		<Ram id="8" number="9">
+		</Ram>
+		<Slinger id="9" number="10">
+		</Slinger>
+		<Spartans id="10" number="11">
+		</Spartans>
+		<Spearman id="11" number="12">
+		</Spearman>
+		<SteamGiant id="12" number="13">
+		</SteamGiant>
+		<SulphurCarabineer id="13" number="14">
+		</SulphurCarabineer>
+		<Swordman id="14" number="15">
+		</Swordman>
+		<Wall id="15" number="16">
+		</Wall>
+	</DefenderForce>
+</Battlefield>
